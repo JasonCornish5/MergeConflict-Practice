@@ -1,5 +1,5 @@
 .wrapper {
-    height: 290vh;
+    height: 100;
     width: 650px;
     border: 1px solid black;
     display: grid;
@@ -10,4 +10,8 @@
 
 .div1 {
     height: 100px;
+}
+
+.div2 {
+    width: 300px;
 }
