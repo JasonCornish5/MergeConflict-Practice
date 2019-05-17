@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: row;
+}
+
+#div1 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  font-size: 30px;
+  color: white;
+  margin-right: 20px;
+}
+
+#div2 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  font-size: 30px;
+  color: white;
+  margin-right: 20px;
+}
+
+#div3 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  font-size: 30px;
+  color: white;
+  margin-right: 20px;
+}
+
+#div4 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  font-size: 30px;
+  color: white;
+  margin-right: 20px;
+}
